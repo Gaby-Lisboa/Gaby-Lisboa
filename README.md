@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Gaby-Lisboa">
-    <img src="gif_note.gif  alt="GIF" />
+    <img src="gif_note.gif"  alt="GIF" />
   </a>
 </p>
 
