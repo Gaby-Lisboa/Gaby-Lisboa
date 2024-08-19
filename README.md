@@ -65,4 +65,4 @@ Bem vindo! Me chamo Gabrielly Lisboa, tenho 19 anos, e sou absolutamente apaixon
 
 
 
-![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gaby-Lisboa/Gaby-Lisboa/blob/output/github-contribution-grid-snake.svg)
