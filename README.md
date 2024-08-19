@@ -14,20 +14,23 @@
 
 ## Um pouquinho sobre mim
 
-Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho nacionalidade brasileira, e moro em Campinas/SP e sou apaixonado por Programação, Ciência de Dados e tudo que envolva esse mundo de dados e tambem sou apaixonado por animais! Sou entusiasta do mundo dos dados,e quanto mais eu aprendo, mais eu amo tudo isso!
+Bem vindo! Me chamo Gabrielly Lisboa, tenho 19 anos, e sou absolutamente apaixonada por tecnologia. Desde pequena, sempre tive um interesse por tudo que envolve o mundo digital, e esse interesse só cresceu ao longo do tempo.<br><br>
 
-- 🔭 Faço parte da equipe de professores do SENAI
-- 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
-- 📚 Estudo sobre assuntos diversos de Ciência de Dados
-- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
-- 🤔 Estou procurando algum cargo como Cientista de Dados
-- 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+🔭 Atualmente, trabalho na Bosch Campinas na área de Digital Solutions, onde aplico e aprimoro minhas habilidades em tecnologia.<br><br>
+👩‍💻 Fiz apenas 4 cursos técnicos em TI (quase um doutorado em técnicos 😂):<br>
+- Técnico em Informática no UNASP<br>
+- Técnico em Informática na ETEC<br>
+- Técnico em Informática para Internet na ETEC<br>
+- Técnico em Desenvolvimento de Sistemas no SENAI<br><br>
+📚 Sou uma eterna aprendiz, sempre buscando novos desafios e descobertas no universo da tecnologia.<br><br>
+👯 Participo de diversos projetos, tanto acadêmicos quanto profissionais, sempre focada em agregar valor e aprender com cada experiência.<br><br>
+⚡ Curiosidade: Amo aprender sobre desenvolvimento pessoal e organização financeira nas minhas horas vagas.<br><br>
+🎵 Sou viciada em ouvir música, para mim é praticamente uma terapia diária.
+
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
@@ -39,7 +42,7 @@ Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho naciona
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](gabriellylisboaa@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/gabrielly-lisboa-b2830621b/) 
+📫 Você pode falar comigo pelo [Email](malito:gabriellylisboaa@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/gabrielly-lisboa-b2830621b/) 
 </br>
 
 
