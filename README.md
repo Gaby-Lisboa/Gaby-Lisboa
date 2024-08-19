@@ -59,10 +59,6 @@ Bem vindo! Me chamo Gabrielly Lisboa, tenho 19 anos, e sou absolutamente apaixon
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
-![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
-![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
-
 
 
 ![Snake animation](https://github.com/Gaby-Lisboa/Gaby-Lisboa/blob/output/github-contribution-grid-snake.svg)
