@@ -12,24 +12,20 @@
 
 
 
-## Um pouquinho sobre mim
+## A little about me
 
-Bem vindo! Me chamo Gabrielly Lisboa, tenho 19 anos, e sou absolutamente apaixonada por tecnologia. Desde pequena, sempre tive um interesse por tudo que envolve o mundo digital, e esse interesse só cresceu ao longo do tempo.<br><br>
+Welcome! My name is Gabrielly Lisboa, I'm 19 years old, and I'm passionate about technology. From an early age, I have always been interested in the digital world, and this interest has only grown over time.<br><br>
 
-🔭 Atualmente, trabalho na Bosch Campinas na área de Digital Solutions, onde aplico e aprimoro minhas habilidades em tecnologia.<br><br>
-👩‍💻 Fiz apenas 4 cursos técnicos em TI (quase um doutorado em técnicos 😂):<br>
-- Técnico em Informática no UNASP<br>
-- Técnico em Informática na ETEC<br>
-- Técnico em Informática para Internet na ETEC<br>
-- Técnico em Desenvolvimento de Sistemas no SENAI<br><br>
-📚 Sou uma eterna aprendiz, sempre buscando novos desafios e descobertas no universo da tecnologia.<br><br>
-👯 Participo de diversos projetos, tanto acadêmicos quanto profissionais, sempre focada em agregar valor e aprender com cada experiência.<br><br>
-⚡ Curiosidade: Amo aprender sobre desenvolvimento pessoal e organização financeira nas minhas horas vagas.<br><br>
-🎵 Sou viciada em ouvir música, para mim é praticamente uma terapia diária.
+🔭 Currently, I work at Bosch Campinas in the digital solutions area, where I apply and enhance my technology skills.<br><br>
+- IT Technician at UNASP<br>
+- IT Technician at ETEC<br>
+- Internet IT Technician at ETEC<br>
+- Systems Development Technician at SENAI<br>
+- Software Engineering at Wyden<br><br>
 
 
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Technologies and Tools:  
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
@@ -41,9 +37,9 @@ Bem vindo! Me chamo Gabrielly Lisboa, tenho 19 anos, e sou absolutamente apaixon
           
           
           
-## Contatos:
+## Contact:
 
-📫 Você pode falar comigo pelo [Email](malito:gabriellylisboaa@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/gabrielly-lisboa-b2830621b/) 
+📫 You can reach me via [Email](mailto:gabriellylisboaa@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gabrielly-lisboa-b2830621b/)  
 </br>
 
 
